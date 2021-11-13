@@ -101,7 +101,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: rgb(199, 172, 19);
+    color: rgb(19, 82, 199);
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -202,7 +202,7 @@ section .title::after{
 .home .home-content a{
     position: absolute;
     display: inline-block;
-    background: rgb(208, 238, 41);
+    background: rgb(20, 20, 19);
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
